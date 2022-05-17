@@ -80,3 +80,4 @@ end
 gem 'devise'
 gem 'clearance'
 gem 'mysql2'
+gem 'decisiontree'
